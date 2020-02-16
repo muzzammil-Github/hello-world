@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a Docker Conatainer using ansible 6th attempt</h2>
+<h2> Deploying on a Docker Conatainer using ansible 7th attempt</h2>
 <h2> Glad to see you here </h2>
